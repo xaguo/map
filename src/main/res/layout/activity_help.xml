@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="勾选【使用定位功能】将会在下一个界面中启用定位功能"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="单击【最短路径】或【最佳路径】进入【最短路径】或【最佳路径】界面，在界面中单击后将会在界面中标记单击的位置，单击两个以上的点之后再双击将会求解最短路径或最短路径，长按界面将清空界面中的标记。"
+        />
+
+
+</LinearLayout>

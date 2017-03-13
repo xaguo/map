@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapDemo</string>
+    <string name="location">使用定位功能</string>
+    <string name="spinner_prompt">Turn-by-Turn Directions</string>
+</resources>
